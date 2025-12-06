@@ -1,4 +1,4 @@
-📊 Car Sales Dashboard – Overview & Details
+📊 BUSINESS PERFORMANCE INSIGHTS – Overview & Details
 
 This project presents an interactive Car Sales Dashboard built to analyze and visualize key performance metrics across the automotive sales domain. The dashboard is structured into two main views — Overview and Details — each providing insights through dynamic charts, tables, and filters.
 
